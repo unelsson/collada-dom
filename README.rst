@@ -1,6 +1,10 @@
 COLLADA Document Object Model (DOM) C++ Library
 ++++++++++++++++++++++++++++++++++++++++++++++++
 
+*** unelsson's notes begin
+12.11.2024 This is a version for OPENMW Manjaro compatibility. Currently it adds a patch from username steils, boost-1.85.0 patch for boost 1.85 compatilibity.
+*** unelsson's notes end
+
 Contents of COLLADA Package
 ===========================
 
